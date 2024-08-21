@@ -1,1 +1,1 @@
-Telegram Bot for Hua
+## Telegram Trading Bot
